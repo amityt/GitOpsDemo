@@ -4,7 +4,7 @@ metadata:
   creationTimestamp: null
   labels:
     cluster_id: b6919ba3-ea4f-4219-92fa-41cb79a60e81
-    workflow_id: 3030ce4e-669d-4ed1-b9ef-7ffe127e1080
+    workflow_id: b0bbc38e-a8d6-4754-80c8-eeca04940d3f
   name: custom-chaos-workflow-1615560936
   namespace: litmus
 spec:
